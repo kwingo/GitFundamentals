@@ -13,3 +13,10 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
+- [git read](./Commands/Read.md)
+- [git clone](./Commands/Clone.md)
+
+## External Resources
+- [Markdown Cheat Sheat](https://www.markdownguide.org/cheat-sheat/)
+- [git documentation](https://git-scm.com/docs/gitignore)
+- [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
